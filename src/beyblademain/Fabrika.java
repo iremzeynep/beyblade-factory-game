@@ -14,7 +14,7 @@ public class Fabrika {
             return new Drayga("Beyaz Kaplan", "Rei", 800, 250);
         }
         else if(beybladeTuru.equals("Draciel")) {
-            // YANLIŞ SINIF ÇAĞRISI (BUG) BURADA DÜZELTİLDİ:
+         
             return new Draciel("Kara kaplumbağa", "Max", 400, 1000);    
         }       
         else {
