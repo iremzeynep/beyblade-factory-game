@@ -8,7 +8,7 @@ public class BeybladeMain {
         System.out.println("Beyblade fabrikamıza hoşgeldiniz.");
         
         while(true) {
-            // Yazım hatası (beybalde -> beyblade) düzeltildi
+            
             System.out.println("Üretebileceğiniz 4 tane beyblade var:\n"
                     + "1. Dranza\n"
                     + "2. Drayga\n"
